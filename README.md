@@ -66,7 +66,7 @@ Do not get stuck trying to master every topic perfectly before moving ahead.
 
 ### Resource
 
-* Introduction to Probability Book
+* [Introduction to Probability](https://github.com/acmsnu/AI-ML-QUEST-2026/blob/main/Introduction%20to%20Probability.pdf)
 
 ### Focus Areas
 
