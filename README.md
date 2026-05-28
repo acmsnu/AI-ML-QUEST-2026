@@ -22,12 +22,12 @@ Before starting Machine Learning properly, make sure you are comfortable with:
 
 * [Dataset Manipulation and Visualisation](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-Focus on:
+### Recommended Sections
 
-* Arrays and matrix operations
-* DataFrames
-* Indexing and slicing
-* Basic data manipulation
+Focus primarily on:
+
+* Chapter 2 — Introduction to NumPy
+* Chapter 3 — Data Manipulation with Pandas
 
 ---
 
@@ -85,8 +85,8 @@ Once you are comfortable with the prerequisites and basic mathematics, start lea
 
 ### Main Resources
 
-* [Machine Learning Implementation](https://github.com/acmsnu/AI-ML-QUEST-2026/blob/main/Hands%20on%20Machine%20Learning.pdf)
-* [Machine Learning Theory](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+* [Hands on Machine Learning](https://github.com/acmsnu/AI-ML-QUEST-2026/blob/main/Hands%20on%20Machine%20Learning.pdf)
+* [Andrew Ng CS229 platlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 ### Supplementary Resources
 
@@ -129,7 +129,7 @@ Best used for:
 
 * Structured consistency
 * Beginner-friendly explanations
-* Revision and reinforcement
+
 
 ---
 
